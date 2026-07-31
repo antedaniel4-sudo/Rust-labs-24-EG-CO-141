@@ -10,3 +10,7 @@ This directory contains the solutions for **Lab Session 5**, focusing on organiz
   Uses `pub`, `pub(crate)`, and private module boundaries to encapsulate internal implementation details.
 * **Exercise C — Multi-file Modular Architecture:** 
   Demonstrates importing items across nested modules using relative (`super::`) and absolute (`crate::`) path resolution.
+
+  RESULTS
+
+  <img width="664" height="298" alt="Screenshot 2026-07-30 5" src="https://github.com/user-attachments/assets/ad3f235b-f052-4878-b6b7-47a0e6065476" />
